@@ -1,2 +1,3 @@
 # hw-14
- 
+Specially for my teacher...
+This repository has task and role that installs VIM and ZIP on the servers from inventory
