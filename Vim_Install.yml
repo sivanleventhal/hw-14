@@ -1,9 +1,0 @@
----
-- hosts: servers
-  tasks:
-    - name: Make sure Vim and Unzip are installed
-      apt:
-        name: "{{ item }}"
-      loop:
-        - vim
-        - unzip
